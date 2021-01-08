@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a  ... **lot of stuff tbh** 
 - 🌱 I’m currently learning Java/C and a lot of ... **Geeky things**
 - 👯 I’m looking to collaborate on ... Yes
